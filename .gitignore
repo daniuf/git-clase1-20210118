@@ -1,1 +1,4 @@
 POR-HACER
+logs/*
+cache/*
+config.json
